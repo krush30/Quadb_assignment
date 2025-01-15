@@ -32,4 +32,21 @@ This application is built using **React.js**, **Redux**, **Firebase**, and **Tai
 - **Firebase**: Authentication and backend integration.  
 - **Tailwind CSS**: Styling for responsive and modern UI.
 
+## Getting Started
 
+Follow these steps to set up and run the project locally:
+
+1. **Clone the Repository**  
+   Clone the repository to your local machine using the command:
+   ```bash
+   git clone "https://github.com/krush30/Quadb_assignment.git"
+
+2. **Step 1**
+    Install the necessary dependencies
+
+    npm install
+
+3. **Step 2**
+    Start the Project
+
+    npm start
